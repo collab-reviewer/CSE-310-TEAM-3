@@ -7,10 +7,10 @@
 * Reese Bernard
  
 ## Software Description
-* web application
-* graphical interface
-* github api connection
-* muli user aplication (i.e. logins.)
+* Web application
+* Graphical interface
+* Github api connection
+* Muli user aplication (i.e. logins.)
  
 ## Architecture
 * User login
@@ -35,6 +35,4 @@
 |Maintaining Documentation           | Keong, Sebastian           |
 |Create & Display Presentations      | Keong, Justin              |
 |Submit Team Assignments             | Keong                      |
- 
-## Reflections
-* 
+
