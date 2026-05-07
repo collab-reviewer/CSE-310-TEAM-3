@@ -19,22 +19,22 @@
 ## Software Features
 * [ ] Chat Feature
 * [ ] Code viewer
-* [ ] Connect to GitHub
+* [ ] Connect to GitHub API
 * [ ] Annotate code
-* [ ] Keep going ....
  
 ## Team Communication
+* Microsoft Teams
  
 ## Team Responsibility
  
 |Responsibility                      |Team Member(s)              |
 |------------------------------------|----------------------------|
-|Conducting Meetings                 |                            |
-|Maintaining Team Assignment List    |                            |
-|Ensuring GitHub is Working          |                            |
-|Maintaining Documentation           |                            |
-|Create & Display Presentations      |                            |
-|Submit Team Assignments             |                            |
+|Conducting Meetings                 | Justin                     |
+|Maintaining Team Assignment List    | Reese, Sebastian           |
+|Ensuring GitHub is Working          | Sebastian, Reese           |
+|Maintaining Documentation           | Keong, Sebastian           |
+|Create & Display Presentations      | Keong, Justin              |
+|Submit Team Assignments             | Keong                      |
  
 ## Reflections
-
+* 
